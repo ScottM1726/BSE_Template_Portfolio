@@ -33,12 +33,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
+My second milestone is finishing the base project of my robotic arm. I assembled all the hardware, and I have all the programming finished. My arm can go up and down, and it can open and close. Unfortunately, it has problems with turning left and right, but it seems like it’s more of a problem with the strength of the base servo than the programming. I reused the code from my first milestone in the final code to measure the joystick coordinates while constantly telling me those coordinates, which is very useful. The hardest part in this milestone was understanding how to do the rest of the code, because none of it made sense to me, and I spent an entire day trying to figure it out on my own without any success. The next day, thankfully, I got help from my instructor and ended up writing all the rest of the code in that one day, which was pretty crazy. This code runs the joystick coordinates through a series of parameters that, depending on the values of the coordinates, move the servos on the arm in different ways.
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
