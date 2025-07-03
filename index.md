@@ -18,12 +18,9 @@ For my project, I am building and programming a robotic arm with four joints, tw
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x956hUlhUo8" title="Scott M Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+My final milestone is finishing the modification I made to my robotic arm. The modification I chose was to separate the joysticks from the arm and use two HC05 Bluetooth modules to send commands between the joysticks and the arm, making them wireless. If I turn them on and move around, I can control the arm no matter where I am. I have two separate codes, one for the controller and one for the arm. The controller code takes the x- and y-values from each of the joysticks and turns them into single-character commands, which are then sent to an HC05. This HC05, connected to the controller, sends the characters to the HC05 connected to the arm. The arm then takes those characters and translates them into commands that make the arm move. There were a lot of technical difficulties and small errors I had to fix, but in the end, it works, and I'm really proud of how it turned out.
 
 
 
