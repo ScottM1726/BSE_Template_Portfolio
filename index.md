@@ -183,10 +183,3 @@ Don't forget to place the link of where to buy each component inside the quotati
 | HC05 Bluetooth Module | Connects the controller and arm wirelessly | $9.99 | <a href="https://www.amazon.com/DSD-TECH-HC-05-Pass-through-Communication/dp/B01G9KSAF6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.VZL1p5RDGQw7c8DXaqrVkRyfFEBz0HhuagQj9O7D5y7Vz0Nu_seyhu0n8hd8O9KK08SsCjmDeY_2P9Hk-FrkFijctdchIkLgZUp68jXK86DL7wGHNi8ABkwzQHmWckh7p3YPqxt2_tJwb6ZLjEG79qlYPAdrp6AQQKLwbhbHEtKwtgLRksyGneDiMASf2h3DDrDllfZYyWlT-lJUwDn4JG8OumBtLbqGp2DgRUAnQUU.he_EIFXFJ6p5daY1g4C0cEdTs6ovGbLpleSeb1OCG9c&dib_tag=se&keywords=hc05+bluetooth+module&qid=1751574750&sr=8-3"> Link </a> |
 | Arduino Nano | We need an extra Arduino to run the controller | $24.99 | <a href="https://www.amazon.com/Arduino-A000005-ARDUINO-Nano/dp/B0097AU5OU/ref=sr_1_2?crid=24HC4I1HJ53EN&dib=eyJ2IjoiMSJ9.UR9t6Z2D5rIVJlr8NPSrk8lsooCrlbXp6PW8NiTHZI1_D9tr9puHNx6d2oy5xaXQRl8lRriprovLWa_p5KYDSQ7kQLffHueQv6DIDbn516eCGAKTDoN0O2PqSOT3lY9yD63zf32QndU85Hs8dZ6AI2Y_ZGRiJp64Ku4Q67A9TlI2J1ARiKFOI4KiDH-aQC-tovAsJmG6B50uP-Kbywnbj88N-d_Jo00Mgmi7gjMk7aE.r4dYVrYIYSPV9d6seSvWyoefCu0utd6fh4VmknJNTsY&dib_tag=se&keywords=arduino+nano&qid=1751574940&sprefix=arduino+nano%2Caps%2C874&sr=8-2"> Link </a> |
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
